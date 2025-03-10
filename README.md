@@ -23,8 +23,6 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
-
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-DA22FF?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Passion-Creating%20Beautiful%20UIs-9733EE?style=for-the-badge&labelColor=000000" />
@@ -35,7 +33,7 @@
 - 🌱 I'm learning **Advanced React Patterns and System Design**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, JavaScript, Web Development**
-- ⚡ My dream? **To build something that people find useful (and doesn’t break in production). 😆**
+- ⚡ My dream? **To build something people find useful (and doesn’t break in production). 😆**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
@@ -112,7 +110,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="30" height="30"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="30" height="30"/>
           </p>
           <p>A comprehensive skincare platform that provides personalized routines based on skin type and concerns. Features product recommendations, routine tracking, and community forums.</p>
         </div>
@@ -136,8 +134,8 @@
           <p>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30" height="30"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30"/>
-            <img src="https://cdn.worldvectorlogo.com/logos/supabase-logo.svg" alt="supabase" width="30" height="30"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="30" height="30"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="supabase" width="30" height="30"/>
           </p>
           <p>A modern fitness application that helps users track workouts, set goals, and monitor progress. Features include custom workout plans, nutrition tracking, and social challenges.</p>
         </div>
@@ -172,7 +170,6 @@
           </div>
           <p>A smart task scheduler that turns procrastination into productivity. Uses AI to suggest optimal task scheduling based on user habits and preferences.</p>
           <br>
-          <img src="https://progress-bar.dev/65/?title=Progress&width=400&color=DA22FF">
         </div>
       </td>
       <td width="50%">
@@ -188,12 +185,11 @@
           <br><br>
           <div>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
           </div>
           <p>A platform for developers to connect, share projects, and collaborate. Features project showcasing, skill matching, and team formation tools.</p>
           <br>
-          <img src="https://progress-bar.dev/40/?title=Progress&width=400&color=00DBDE">
         </div>
       </td>
     </tr>
@@ -224,7 +220,7 @@
         <strong>Frontend</strong>
         <br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
       </td>
       <td align="center">
@@ -255,7 +251,7 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Next.js-80%25-DA22FF?style=for-the-badge&logo=next.js&logoColor=white"/>
         <br><br>
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="60" height="60"/>
         <br><br>
         <ul align="left">
           <li>🔄 Server Components</li>
@@ -263,7 +259,6 @@
           <li>⚡ Server Actions</li>
         </ul>
         <br>
-        <img src="https://progress-bar.dev/80/?title=Progress&width=200&color=DA22FF">
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/TypeScript-65%25-9733EE?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -276,12 +271,11 @@
           <li>🛠️ Type Utilities</li>
         </ul>
         <br>
-        <img src="https://progress-bar.dev/65/?title=Progress&width=200&color=9733EE">
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/System%20Design-40%25-00DBDE?style=for-the-badge&logoColor=white"/>
         <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="60" height="60"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
         <br><br>
         <ul align="left">
           <li>📈 Scalability</li>
@@ -289,7 +283,6 @@
           <li>🗄️ Database Design</li>
         </ul>
         <br>
-        <img src="https://progress-bar.dev/40/?title=Progress&width=200&color=00DBDE">
       </td>
     </tr>
   </table>
@@ -304,14 +297,15 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="saas" width="60" height="60"/>
         <br><br>
         Build and launch a full-featured<br>SaaS product with<br>subscription model
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🌟-Open%20Source-9733EE?style=for-the-badge"/>
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="60" height="60"/>
-        <br><br>
-        Contribute to 5 major<br>open-source projects and<br>build community presence
-      </td>
+     <td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🌟-Open%20Source-9733EE?style=for-the-badge"/>
+  <br><br>
+  <div style="width: 60px; height: 60px; background: white; display: flex; align-items: center; justify-content: center; border-radius: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+  </div>
+  <br><br>
+  Contribute to 5 major<br>open-source projects and<br>build community presence
+</td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/📚-Master%20Skills-00DBDE?style=for-the-badge"/>
         <br><br>
@@ -337,12 +331,9 @@
   <a href="https://github.com/Maira-Riaz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/MairaRiaz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/mairariaz" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
+ <a href="https://twitter.com/MairaRiaz" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 </div>
 
 <div align="center">
