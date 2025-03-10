@@ -35,7 +35,7 @@
 - 🌱 I'm learning **Advanced React Patterns and System Design**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, JavaScript, Web Development**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- ⚡ My dream? **To build something that people find useful (and doesn’t break in production). 😆**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
