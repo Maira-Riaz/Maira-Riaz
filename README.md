@@ -101,7 +101,7 @@
             <a href="https://github.com/Maira-Riaz/Radiant-Skin" target="_blank">
               <img src="https://img.shields.io/badge/Code-6e5494?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://radiant-skin.verecl.app" target="_blank">
+            <a href="https://radiant-skin.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-DA22FF?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
@@ -127,7 +127,7 @@
             <a href="https://github.com/Maira-Riaz/FitnessPro" target="_blank">
               <img src="https://img.shields.io/badge/Code-6e5494?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://fitness-pro-mocha.vercel.pp" target="_blank">
+            <a href="https://fitness-pro-mocha.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-00DBDE?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
