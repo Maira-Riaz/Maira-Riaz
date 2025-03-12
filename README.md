@@ -347,24 +347,38 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maira-Riaz&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
+  <a href="https://github.com/Maira-Riaz">
+    <img src="https://github-profile-trophy.vercel.app/?username=Maira-Riaz&theme=discord&no-frame=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maira-Riaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=30,DA22FF,9733EE,00DBDE&title_color=fff&text_color=fff&icon_color=fff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maira-Riaz&layout=compact&langs_count=7&theme=tokyonight&bg_color=30,DA22FF,9733EE,00DBDE&title_color=fff&text_color=fff" />
+  <a href="https://github.com/Maira-Riaz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maira-Riaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=DA22FF&text_color=FFFFFF&icon_color=00DBDE&border_color=DA22FF&border_radius=10" />
+  </a>
+  <a href="https://github.com/Maira-Riaz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maira-Riaz&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&title_color=DA22FF&text_color=FFFFFF&border_color=9733EE&border_radius=10" />
+  </a>
 </div>
 
-<h2 style="color: white; margin-bottom: 20px; display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30" style="margin-right: 10px;"> 
-  Maira Riaz's GitHub Streak
-</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maira-Riaz&theme=radical&background=0D1117&border=0D1117&ring=DA22FF&fire=DA22FF&currStreakLabel=9733EE&sideNums=00DBDE&sideLabels=9733EE&currStreakNum=00DBDE&dates=FFFFFF" alt="GitHub Streak" />
+ <div>
+    <h2>
+      <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"> 
+      Maira Riaz's GitHub Streak
+      <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30">
+    </h2>
+  </div>
+<div align="center"> 
+  <a href="https://github.com/Maira-Riaz">
+    <a href="https://github.com/Maira-Riaz">
+    <img src="https://streak-stats.demolab.com?user=Maira-Riaz&theme=radical&background=0D1117&border=DA22FF&ring=DA22FF&fire=DA22FF&currStreakLabel=9733EE&sideNums=00DBDE&sideLabels=9733EE&currStreakNum=00DBDE&dates=FFFFFF&stroke=9733EE&border_radius=10" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maira-Riaz&theme=react-dark&bg_color=20232a&hide_border=true&line=DA22FF&point=00DBDE" width="100%" />
+  <a href="https://github.com/Maira-Riaz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maira-Riaz&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=DA22FF&point=00DBDE&area=true&hide_border=false&border_color=9733EE&radius=10" width="100%" />
+  </a>
 </div>
 
 <div align="center">
