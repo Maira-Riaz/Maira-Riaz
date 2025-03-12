@@ -355,8 +355,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maira-Riaz&layout=compact&langs_count=7&theme=tokyonight&bg_color=30,DA22FF,9733EE,00DBDE&title_color=fff&text_color=fff" />
 </div>
 
+<h2 style="color: white; margin-bottom: 20px; display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30" style="margin-right: 10px;"> 
+  Maira Riaz's GitHub Streak
+</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maira-Riaz&theme=tokyonight&background=30,DA22FF,9733EE,00DBDE&ring=fff&fire=fff&currStreakLabel=fff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maira-Riaz&theme=radical&background=0D1117&border=0D1117&ring=DA22FF&fire=DA22FF&currStreakLabel=9733EE&sideNums=00DBDE&sideLabels=9733EE&currStreakNum=00DBDE&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
